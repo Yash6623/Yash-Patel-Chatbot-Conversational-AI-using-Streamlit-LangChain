@@ -1,0 +1,36 @@
+# About Yash Patel
+Yash Patel is currently pursuing a Master’s in Data Science at the University of Bridgeport. 
+He is passionate about using technology, analytics, and AI to drive better business decisions.
+
+# Internship Experience
+At Vineyard Vines, Yash Patel worked as a Data Analyst Intern. 
+He analyzed last year’s shipped data to understand supply chain performance 
+and used Power BI to create dashboards that visualized the average turnaround time of key suppliers. 
+Yash also gained experience working with the BlueCherry software system, 
+collaborated with logistics suppliers, and participated in meetings with the management team 
+to discuss process improvements and data-driven decision-making.
+
+# Projects
+1. **Customer Churn Prediction** – Built a predictive model in Python using machine learning algorithms 
+   to identify customers likely to leave a company. Used Pandas, NumPy, and Scikit-learn for model development 
+   and Matplotlib/Seaborn for visualization.
+
+2. **Marketing Campaign Analysis (SAS Studio)** – Conducted data analysis to evaluate how promotions 
+   impacted sales. Performed descriptive statistics, created histograms and box plots, and provided 
+   insights on the relationship between marketing activities and sales performance.
+
+3. **Restaurant Sales Analysis** – Analyzed whether restaurant ranking impacts sales using SAS Studio. 
+   Developed a two-page APA report that covered data preparation, modeling, and evaluation.
+
+4. **Chatbot Development (LangChain + Streamlit)** – Developed an interactive chatbot that answers 
+   questions about Yash Patel’s projects and experiences using LangChain, ChromaDB, and a HuggingFace model.
+
+# Technical Skills
+Python, Java, SQL, Power BI, Power Apps, Power Automate, SharePoint, Excel, PowerPoint, 
+Git/GitHub, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, AWS, Jira, MongoDB, 
+Machine Learning, Deep Learning, Cloud Computing.
+
+# Contact
+Email: yashpatel9750@gmail.com  
+LinkedIn: linkedin.com/in/yash-patel-8a4122210  
+GitHub: github.com/Yash6623
