@@ -1,0 +1,6 @@
+streamlit
+langchain==0.2.14
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
