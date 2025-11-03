@@ -4,3 +4,6 @@ chromadb
 sentence-transformers
 transformers
 huggingface-hub
+streamlit-chat
+langchain-community
+
